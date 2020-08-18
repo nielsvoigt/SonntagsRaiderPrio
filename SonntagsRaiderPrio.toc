@@ -1,0 +1,8 @@
+## Interface: 11355
+## Title: SonntagsRaiderPrio
+## Version: 1.13.5.5
+## Notes: Adds loot priorities to the ingame tooltips
+## Author: nvoigt aka Soo[SonntagsRaider]
+
+SonntagsRaiderData.lua
+SonntagsRaiderPrio.lua
