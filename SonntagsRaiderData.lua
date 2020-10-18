@@ -43,7 +43,7 @@ SonntagsRaiderPrio[21707] = FreeForAll;  -- Ring of Swarming Thought
 SonntagsRaiderPrio[21703] = FreeForAll;  -- Hammer of Ji'Zhi
 SonntagsRaiderPrio[21128] = Mage..sameAs..Warlock;  -- Staff of the Qiraji Prophets
 
-SonntagsRaiderPrio[21603] = ShadowPriest..beats..(Mage..sameAs..Warlock);  -- Wand of Qiraji Nobility
+SonntagsRaiderPrio[21603] = ShadowPriest..sameAs..Mage..sameAs..Warlock;  -- Wand of Qiraji Nobility
 SonntagsRaiderPrio[21688] = ProtectionTank..sameAs..FuryTank;  -- Boots of the Fallen Hero
 SonntagsRaiderPrio[21693] = FreeForAll;  -- Guise of the Devourer
 SonntagsRaiderPrio[21694] = FreeForAll;  -- Ternary Mantle
